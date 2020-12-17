@@ -102,17 +102,6 @@ text.write("Not centered",align="center",font=("consolas",20,"normal"))
 
 
 
-#for i in range(10):
-#
-#
-#    center_crosshair.pencolor("red")
-#    win.update()
-#    win.delay(500)
-#
-#    center_crosshair.pencolor("orange")
-#    win.update()
-
-
     
     
 win.update()
